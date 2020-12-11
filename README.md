@@ -2,6 +2,7 @@
 Prerequisites
 1. Docker
 2. AWS SAM CLI
+3. Java 11
 
 How to reproduce the issue
 
